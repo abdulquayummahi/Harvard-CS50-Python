@@ -1,0 +1,7 @@
+x = float(input("What is X: "))
+y = float(input("What is Y: "))
+# print(x + y)
+# print(f"{x} + {y} = {round(x + y):,}", end="")
+print(round(x/y, 2))
+print(f"{x/y:.2f}")
+# print(int(input("What is X: ")) + int(input("What is X: ")))
